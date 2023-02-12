@@ -1,2 +1,2 @@
 # Sand-Isle-Website
-This Is Website For The Electronic Music Artist Sand Isle.
+This Is A Website For The Electronic Music Artist Sand Isle.
